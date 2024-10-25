@@ -18,11 +18,11 @@ O programa deve permitir ao usuário:
 
 > O programa apresenta um menu com as opções:
 >
-> - adicionar produto, consultar produto, listar produtos e sair.
+> - Adicionar produto, consultar produto, listar produtos e sair.
 > - O usuário pode adicionar produtos e consultar suas quantidades.
 > - Ao final, o programa exibe a lista de produtos em estoque.
 
-#### ⚠️ Dicas:
+#### ⚠️ Dicas: 
 
 - Considere usar uma estrutura de repetição para o menu de opções.
 - Implemente funções para cada operação (adicionar, consultar, listar).
